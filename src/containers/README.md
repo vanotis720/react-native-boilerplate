@@ -1,0 +1,1 @@
+Comme son nom l'indique, vous pouvez placer tous les composants basés sur l'écran dans des conteneurs, tels que l'écran de démarrage, l'écran d'accueil, les onglets inférieurs, la barre latérale, l'en-tête commun et les fichiers basés sur le conteneur, etc.
